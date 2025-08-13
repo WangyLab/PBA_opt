@@ -24,5 +24,6 @@ PBA_opt/
 │  ├─ Model2_cpt.joblib       # Model2 checkpoint
 │  ├─ Prediction_sorted.xlsx  # Full-space experimental-property prediction, ranked from highest to lowest
 │  └─ TheorData.csv           # Theoretical dataset from MD simulations
+├─ LICENSE
 ├─ README.md
 ```
